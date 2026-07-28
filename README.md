@@ -1,43 +1,36 @@
 # 🌎 Guia de Carreira Internacional em TI com NotebookLM
 
-## 📌 Contexto
+> Projeto desenvolvido como desafio da DIO utilizando o NotebookLM para organizar estudos, analisar fontes e construir conhecimento sobre carreira internacional em Tecnologia da Informação.
 
-Este projeto foi desenvolvido durante o desafio da DIO utilizando o NotebookLM como ferramenta de aprendizagem ativa.
+---
 
-O tema escolhido foi:
+# 📌 Contexto
 
-> Como construir uma carreira internacional em Tecnologia da Informação, realizando uma pós-graduação no exterior e encontrando oportunidades de trabalho, com foco principal no Canadá.
+O objetivo deste projeto foi utilizar o NotebookLM como ferramenta de aprendizagem ativa para compreender quais são os melhores caminhos para estudar no exterior e construir uma carreira internacional em Tecnologia da Informação.
 
-A proposta foi utilizar documentos reais para criar um caderno de estudos, gerar resumos, responder dúvidas e organizar o conhecimento.
+Durante o desenvolvimento do caderno temático, foram reunidas fontes oficiais sobre pós-graduação, imigração, mercado de trabalho e demanda por profissionais de TI, com foco principal no Canadá e comparação com outros países.
 
 ---
 
 # 🎯 Objetivos
 
-- Entender como funciona uma pós-graduação no exterior.
-- Conhecer os países com maior demanda para profissionais de TI.
-- Descobrir quais tecnologias possuem maior empregabilidade.
-- Comparar oportunidades entre Canadá, Irlanda, Alemanha, Austrália e Portugal.
-- Criar um material de consulta para futuras candidaturas internacionais.
+- Entender como funciona o processo para estudar no exterior;
+- Descobrir quais países oferecem as melhores oportunidades para profissionais de TI;
+- Comparar salários, vistos e possibilidades de imigração;
+- Identificar as tecnologias mais valorizadas internacionalmente;
+- Criar um plano de preparação para conseguir uma vaga em uma pós-graduação e posteriormente trabalhar no Canadá.
 
 ---
 
-# 📚 Fontes utilizadas
+# 📚 Curadoria de Fontes
 
-1. Estudar Fora – Pós-graduação no exterior
-https://www.estudarfora.org.br/pos-graduacao-no-exterior/
+As seguintes fontes foram adicionadas ao NotebookLM:
 
-2. Governo do Canadá – Study in Canada
-https://www.educanada.ca/
-
-3. Government of Canada – Job Bank
-https://www.jobbank.gc.ca/
-
-4. LinkedIn Economic Graph
-https://economicgraph.linkedin.com/
-
-5. OECD Education
-https://www.oecd.org/education/
+- https://www.estudarfora.org.br/pos-graduacao-no-exterior/
+- https://www.educanada.ca/
+- https://www.jobbank.gc.ca/
+- https://economicgraph.linkedin.com/
+- https://www.oecd.org/education/
 
 ---
 
@@ -45,127 +38,214 @@ https://www.oecd.org/education/
 
 ## Prompt 1
 
-Quais são os principais caminhos para um estudante brasileiro conseguir trabalhar com TI no Canadá após concluir uma pós-graduação?
+**Quais são os passos para conseguir estudar no exterior?**
 
-### Resultado
+### Principais respostas
 
-A IA explicou:
+O NotebookLM mostrou que o processo envolve:
 
-- PGWP
-- Experiência canadense
-- Express Entry
-- Networking
+- planejamento com antecedência (9 a 12 meses);
+- realização do exame de proficiência (IELTS, TOEFL ou equivalente);
+- escolha das universidades;
+- preparação da documentação;
+- envio da candidatura;
+- comprovação financeira;
+- solicitação do visto de estudante.
 
 ---
 
 ## Prompt 2
 
-Compare Canadá, Irlanda, Austrália, Alemanha e Portugal para profissionais de TI.
+**Quais são os principais caminhos para um estudante brasileiro conseguir trabalhar com TI no Canadá após concluir uma pós-graduação?**
 
-### Resultado
+### Principais respostas
 
-Foi criada uma tabela comparando:
+Foram apresentados diversos caminhos:
 
-- salários
-- custo de vida
-- facilidade de imigração
-- demanda de mercado
+- Post-Graduation Work Permit (PGWP);
+- Express Entry;
+- Canadian Experience Class (CEC);
+- Programas Provinciais (PNP);
+- Global Talent Stream.
+
+Também foram destacadas boas práticas para aumentar as chances de contratação:
+
+- currículo no padrão canadense;
+- GitHub atualizado;
+- networking pelo LinkedIn;
+- domínio do inglês;
+- preparação para entrevistas técnicas.
 
 ---
 
 ## Prompt 3
 
-Quais habilidades técnicas são mais valorizadas internacionalmente para um desenvolvedor de software?
+**Compare Canadá, Irlanda, Austrália, Alemanha e Portugal para profissionais de TI.**
 
 ### Resultado
 
-Foram destacadas:
+Foi possível comparar:
 
-- Cloud
-- Python
-- Java
-- C#
-- React
-- IA
-- SQL
-- DevOps
+| País | Destaque |
+|------|----------|
+| 🇨🇦 Canadá | Melhor caminho para imigração após os estudos |
+| 🇮🇪 Irlanda | Muitas Big Techs e idioma inglês |
+| 🇩🇪 Alemanha | Altos salários e universidades públicas |
+| 🇦🇺 Austrália | Excelente qualidade de vida |
+| 🇵🇹 Portugal | Mercado europeu em crescimento |
 
 ---
 
 ## Prompt 4
 
-Crie um plano de estudos de 12 meses para alguém que deseja conseguir uma vaga de desenvolvedor no Canadá.
+**Quais habilidades técnicas são mais valorizadas internacionalmente para desenvolvedores?**
 
 ### Resultado
 
-A IA criou um roadmap dividido por meses.
+As competências mais citadas foram:
+
+- Inteligência Artificial
+- Machine Learning
+- Python
+- JavaScript
+- SQL
+- React
+- Cloud Computing
+- AWS
+- Azure
+- DevOps
+- Cybersecurity
+- Data Science
+
+Além das hard skills, o NotebookLM destacou a importância de:
+
+- comunicação;
+- trabalho em equipe;
+- resolução de problemas;
+- capacidade de explicar o raciocínio durante entrevistas técnicas.
 
 ---
 
-# ⚠️ Dificuldades encontradas
+## Prompt 5
 
-Durante os testes foi observado que:
+**Crie um plano de estudos de 12 meses para um estudante de Engenharia da Computação que deseja fazer uma pós-graduação no Canadá.**
+
+### Resultado
+
+Foi criado um roadmap dividido em quatro etapas:
+
+### Meses 1–3
+
+- melhorar o desempenho acadêmico;
+- pesquisar universidades;
+- avaliar o nível de inglês.
+
+### Meses 4–6
+
+- estudar para IELTS/TOEFL;
+- desenvolver projetos para o GitHub;
+- fortalecer o networking acadêmico.
+
+### Meses 7–9
+
+- realizar o exame de proficiência;
+- solicitar cartas de recomendação;
+- escrever o Statement of Purpose (SOP).
+
+### Meses 10–12
+
+- enviar as candidaturas;
+- preparar entrevistas;
+- estudar tecnologias em alta demanda.
+
+---
+
+# ⚠️ Dificuldades Encontradas
+
+Durante a utilização do NotebookLM foi possível observar que:
 
 - perguntas muito genéricas geravam respostas superficiais;
 - prompts específicos produziram respostas mais completas;
-- utilizar várias fontes aumentou significativamente a qualidade das respostas.
+- utilizar diversas fontes aumentou significativamente a qualidade das respostas;
+- solicitar comparações entre países facilitou a tomada de decisão.
 
 ---
 
 # 📖 Miniguia de Estudos
 
-## Como estudar fora
+## Passos para estudar no exterior
 
-- Escolher o país
-- Escolher a universidade
-- Verificar requisitos
-- Fazer aplicação
-- Solicitar visto
-- Buscar estágio ou emprego
+1. Escolher o país.
+2. Pesquisar universidades.
+3. Fazer exame de proficiência.
+4. Preparar documentação.
+5. Enviar a candidatura.
+6. Obter a carta de aceitação.
+7. Comprovar recursos financeiros.
+8. Solicitar o visto.
+9. Organizar a mudança.
 
 ---
 
-## Países mais interessantes para TI
+## Países mais interessantes para profissionais de TI
 
-| País | Destaques |
-|--------|-----------|
-| 🇨🇦 Canadá | Alta demanda e imigração facilitada |
-| 🇮🇪 Irlanda | Muitas multinacionais |
-| 🇩🇪 Alemanha | Grande mercado de tecnologia |
-| 🇦🇺 Austrália | Bons salários |
-| 🇵🇹 Portugal | Entrada mais acessível |
+| País | Pontos Fortes |
+|------|---------------|
+| 🇨🇦 Canadá | Imigração estruturada, alta demanda por TI |
+| 🇮🇪 Irlanda | Presença de Google, Meta, Microsoft e Apple |
+| 🇩🇪 Alemanha | Universidades públicas e altos salários |
+| 🇦🇺 Austrália | Excelente qualidade de vida |
+| 🇵🇹 Portugal | Porta de entrada para o mercado europeu |
 
 ---
 
 ## Glossário
 
 **PGWP**
-Permissão para trabalhar após a graduação no Canadá.
+
+Permissão de trabalho concedida após a conclusão dos estudos no Canadá.
 
 **Express Entry**
-Sistema de imigração canadense.
 
-**Work Permit**
-Autorização para trabalhar.
+Sistema de imigração utilizado pelo governo canadense.
 
-**Networking**
-Construção de contatos profissionais.
+**PNP**
+
+Programa Provincial de Nomeação para imigração.
+
+**CEC**
+
+Canadian Experience Class.
+
+**SOP**
+
+Statement of Purpose, carta explicando seus objetivos acadêmicos e profissionais.
 
 **Cloud Computing**
-Serviços em nuvem como Azure, AWS e Google Cloud.
+
+Tecnologias de computação em nuvem como AWS, Azure e Google Cloud.
+
+**Live Coding**
+
+Entrevista técnica em que o candidato resolve problemas de programação em tempo real.
 
 ---
 
 # 💡 Prompts reutilizáveis
 
-- Compare oportunidades de TI entre diferentes países.
+- Compare as oportunidades de TI entre diferentes países.
 - Explique os requisitos para estudar e trabalhar no Canadá.
 - Crie um roadmap para conseguir emprego internacional em TI.
 - Liste as tecnologias mais requisitadas para desenvolvedores no exterior.
-- Faça um resumo das políticas de imigração para estudantes internacionais.
+- Explique as principais formas de imigração para profissionais de tecnologia.
+- Monte um plano de estudos de 12 meses para quem deseja fazer uma pós-graduação internacional.
 
 ---
 
 # 🚀 Conclusão
 
-O NotebookLM mostrou ser uma excelente ferramenta para organizar conhecimento, comparar fontes e acelerar o aprendizado. A experiência permitiu transformar diversas referências em um guia estruturado para quem pretende construir uma carreira internacional em Tecnologia da Informação.
+O NotebookLM mostrou-se uma excelente ferramenta para organizar conhecimento, comparar diferentes fontes e acelerar o aprendizado.
+
+Através da criação deste caderno temático foi possível compreender todo o processo necessário para estudar no exterior, identificar os países mais promissores para profissionais de Tecnologia da Informação e construir um plano de preparação baseado em fontes confiáveis.
+
+Além de servir como entrega do desafio da DIO, este projeto também se tornou um guia pessoal para futuras decisões sobre pós-graduação e carreira internacional em TI.
